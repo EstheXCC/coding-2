@@ -70,8 +70,8 @@ Use the plt.show() function to open the picture and display it.
 plt.show()
 --------------------------------------
 
-          ![Figure_1](https://user-images.githubusercontent.com/91971719/158742326-11d518d4-1675-4130-ae2d-5e3a2afa4742.png)
- ************
+          [Figure_1](https://user-images.githubusercontent.com/91971719/158742326-11d518d4-1675-4130-ae2d-5e3a2afa4742.png)
+	  
 		   *    *
 		   ************
 ------------------------------------
