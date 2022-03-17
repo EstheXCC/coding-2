@@ -69,8 +69,9 @@ Use the plt.show() function to open the picture and display it.
 #plt.imshow(img)
 plt.show()
 --------------------------------------
+![Figure_1](https://user-images.githubusercontent.com/91971719/158743445-0fde267d-3afd-4132-9c91-06c373a56d02.png)
 
-          [Figure_1](https://user-images.githubusercontent.com/91971719/158742326-11d518d4-1675-4130-ae2d-5e3a2afa4742.png)
+          
 	  
 		   *    *
 		   ************
@@ -85,8 +86,9 @@ plt.show()
 --------------------------------------
 
            ************
-		   *  ![Figure_2](https://user-images.githubusercontent.com/91971719/158742344-1fb47440-2989-4131-9503-3ace1560da3b.png)
-   *
+		
+   *![Figure_2](https://user-images.githubusercontent.com/91971719/158743485-66b9bdd9-3a03-4928-96a3-9b43892ea8e2.png)
+
 		   ************
 ------------------------------------
 
@@ -95,7 +97,9 @@ plt.show()
 --------------------------------------
 
            ************
-		   *   ![Figure_3](https://user-images.githubusercontent.com/91971719/158742387-09981f99-0b36-4240-b485-363abd29b91f.png)
+		
+![Figure_3](https://user-images.githubusercontent.com/91971719/158743542-6585b0d5-f3d5-47fd-b85a-1e3c05841e84.png)
+
    *
 		   ************
 ------------------------------------
@@ -104,7 +108,7 @@ plt.imshow(img[:, :, 2], cmap='gray') # Green Channel
 plt.show()
 --------------------------------------
 
-           **![Figure_3](https://user-images.githubusercontent.com/91971719/158742415-9c813bc5-1148-4702-b721-9e77dbbba0e5.png)
+          
 **********
 		   *      *
 		   ************
@@ -124,7 +128,9 @@ print("look at this average cat")
 --------------------------------------
 
            ************
-		   *     *![Figure_4](https://user-images.githubusercontent.com/91971719/158742429-868ecb31-58fe-472a-a560-e257b7009d44.png)
+		
+![Figure_4](https://user-images.githubusercontent.com/91971719/158743616-7d757369-8549-48bd-848f-891e02ed784e.png)
+
 
 		   ************
 ------------------------------------
@@ -134,8 +140,9 @@ plt.imshow(std_img.astype(np.uint8))
 print("This is the standard deviation - the variance of the mean")
 --------------------------------------
 
-           ****![Figure_5](https://user-images.githubusercontent.com/91971719/158742441-0cf1e106-aadc-4369-ab3c-d47ba3a9aaef.png)
-********
+         
+********![Figure_5](https://user-images.githubusercontent.com/91971719/158743643-4efd06aa-4a44-46d6-bc00-4b625985452e.png)
+
 		   *      *
 		   ************
 ------------------------------------
@@ -147,7 +154,8 @@ plt.show()
 --------------------------------------
 
            ************
-		   *  *![Figure_6](https://user-images.githubusercontent.com/91971719/158742452-2a544e00-e22c-4007-86a6-af7a261bdbfd.png)
+	
+![Figure_6](https://user-images.githubusercontent.com/91971719/158743657-cd291f41-b00d-405c-85f2-75f9e2a06947.png)
 
 		   ************
 ------------------------------------
@@ -267,7 +275,10 @@ print(plt.hist(flattened.ravel(), 255))
 --------------------------------------
 
            ************
-		   *    *![Figure_7](https://user-images.githubusercontent.com/91971719/158742463-5ae4e14e-70c7-49c2-8563-f2b1f0e85caa.png)
+
+![Figure_7](https://user-images.githubusercontent.com/91971719/158743711-e01078f4-2074-4d78-bcf0-acb690f3b288.png)
+
+
 
 		   ************
 ------------------------------------	   
@@ -388,9 +399,10 @@ print(plt.hist(mean_img.ravel(), 255))
        209.00470588, 209.66980392, 210.33490196, 211.        ]), <BarContainer object of 255 artists>)
 --------------------------------------
 
-           *![Figure_8](https://user-images.githubusercontent.com/91971719/158742479-17fee42d-f887-4a9d-a351-f40a074a6265.png)
-***********
-		   *     *
+         
+![Figure_8](https://user-images.githubusercontent.com/91971719/158743751-385905e9-fb84-4663-bc7d-a821d682b8ce.png)
+
+ *
 		   ************
 ------------------------------------
 
@@ -406,7 +418,10 @@ plt.show()
 --------------------------------------
 
            ************
-		   *     ![Figure_9](https://user-images.githubusercontent.com/91971719/158742500-08a59b2b-b451-455c-a87b-17f2e6bfbbb6.png)
+
+![Figure_9](https://user-images.githubusercontent.com/91971719/158743786-22a57a86-b410-4a23-bf6e-a20ea056653a.png)
+
+
 *
 		   ************
 ------------------------------------
@@ -422,7 +437,8 @@ plt.show()
 --------------------------------------
 
            ************
-		   *     *![Figure_10](https://user-images.githubusercontent.com/91971719/158742509-dafb6c7b-c92c-4523-969f-1bdca5280005.png)
+	
+![Figure_10](https://user-images.githubusercontent.com/91971719/158743827-03ad9757-8616-4a49-8c40-8f8d847b1f4b.png)
 
 		   ************
 ------------------------------------
@@ -617,11 +633,10 @@ res = z.eval()
 plt.plot(res)
 plt.show()
 --------------------------------------
+![Figure_11](https://user-images.githubusercontent.com/91971719/158743869-3c06a989-0406-4076-8f0c-dde4e07a8dc8.png)
 
            ************
-		   *    *![Figure_11](https://user-images.githubusercontent.com/91971719/158742537-af314243-2569-487c-9728-6b4894954cd5.png)
-
-		   ************
+	
 ------------------------------------
 
 ksize = z.get_shape().as_list()[0]
@@ -635,7 +650,8 @@ plt.show()
 --------------------------------------
 
            ************
-		   *   *![Figure_12](https://user-images.githubusercontent.com/91971719/158742550-16b505ec-b897-416e-bf8d-b8d4b9527577.png)
+![Figure_12](https://user-images.githubusercontent.com/91971719/158743906-08b7b541-1d22-48de-93a7-c3bb72b87931.png)
+
 
 		   ************
 ------------------------------------
